@@ -1,0 +1,6 @@
+[submodule "deps/swagger-editor"]
+	path = deps/swagger-editor
+	url = https://github.com/swagger-api/swagger-editor.git
+[submodule "deps/swagger-ui"]
+	path = deps/swagger-ui
+	url = https://github.com/swagger-api/swagger-ui.git
